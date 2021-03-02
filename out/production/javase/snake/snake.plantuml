@@ -1,0 +1,61 @@
+@startuml
+
+title __SNAKE's Class Diagram__\n
+
+  namespace snake {
+    class snake.Data {
+        {static} + body : ImageIcon
+        {static} + bodyUrl : URL
+        {static} + down : ImageIcon
+        {static} + downUrl : URL
+        {static} + food : ImageIcon
+        {static} + foodUrl : URL
+        {static} + left : ImageIcon
+        {static} + leftUrl : URL
+        {static} + right : ImageIcon
+        {static} + rightUrl : URL
+        {static} + up : ImageIcon
+        {static} + upUrl : URL
+    }
+  }
+  
+
+  namespace snake {
+    class snake.GamePanel {
+        ~ direct : String
+        ~ foodX : int
+        ~ foodY : int
+        ~ isFail : boolean
+        ~ isStart : boolean
+        ~ length : int
+        ~ random : Random
+        ~ score : int
+        ~ timer : Timer
+        ~ x : int[]
+        ~ y : int[]
+        + GamePanel()
+        + actionPerformed()
+        + init()
+        + keyPressed()
+        + keyReleased()
+        + keyTyped()
+        # paintComponent()
+    }
+  }
+  
+
+  namespace snake {
+    class snake.StartGame {
+        {static} + main()
+    }
+  }
+  
+
+  snake.GamePanel .up.|> java.awt.event.ActionListener
+  snake.GamePanel .up.|> java.awt.event.KeyListener
+  snake.GamePanel -up-|> javax.swing.JPanel
+
+
+
+
+@enduml

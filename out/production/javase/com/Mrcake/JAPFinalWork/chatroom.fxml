@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="503.0" prefWidth="796.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.Mrcake.JAPFinalWork.ChatController">
+   <children>
+      <AnchorPane fx:id="ap_1" prefHeight="503.0" prefWidth="796.0">
+         <children>
+            <Button fx:id="btn_1" layoutX="499.0" layoutY="312.0" mnemonicParsing="false" onMouseClicked="#ShowTfd" text="连接" />
+            <Text fx:id="t_1" layoutX="286.0" layoutY="140.0" strokeType="OUTSIDE" strokeWidth="0.0" text="欢迎来到聊天室！">
+               <font>
+                  <Font size="28.0" />
+               </font>
+            </Text>
+            <Label fx:id="lab_1" layoutX="257.0" layoutY="181.0" text="用户昵称" />
+            <Label fx:id="lab_2" layoutX="249.0" layoutY="222.0" text="聊天室地址" />
+            <TextField fx:id="tfd_1" layoutX="347.0" layoutY="176.0" promptText="请输入你的昵称" />
+            <TextField fx:id="tfd_2" layoutX="347.0" layoutY="217.0" promptText="请输入你要连接的聊天室" />
+            <Label fx:id="lab_3" layoutX="249.0" layoutY="263.0" text="聊天室端口" />
+            <TextField fx:id="tfd_3" layoutX="347.0" layoutY="258.0" promptText="请输入聊天室连接端口号" />
+         </children>
+      </AnchorPane>
+      <AnchorPane fx:id="ap_2" prefHeight="503.0" prefWidth="796.0" visible="false">
+         <children>
+            <Button layoutX="706.0" layoutY="416.0" mnemonicParsing="false" onMouseEntered="#showHelp" onMouseExited="#hideHelp" text="帮助" />
+            <TextArea fx:id="taa_1" layoutX="40.0" layoutY="44.0" prefHeight="219.0" prefWidth="716.0" />
+            <TextArea fx:id="taa_2" layoutX="34.0" layoutY="280.0" prefHeight="128.0" prefWidth="648.0" />
+            <Button layoutX="639.0" layoutY="416.0" mnemonicParsing="false" onMouseClicked="#send" text="发送" />
+            <TextArea fx:id="taa_3" layoutX="468.0" layoutY="321.0" prefHeight="87.0" prefWidth="288.0" text="发消息格式:“直接输入”或“@all-消息”&#10;私发消息格式:“@昵称#message-消息”&#10;私发文件格式:“@昵称#file-文件路径”" visible="false" />
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

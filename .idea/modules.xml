@@ -4,6 +4,17 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HY.iml" filepath="$PROJECT_DIR$/HY.iml" />
       <module fileurl="file://$PROJECT_DIR$/javase/javase.iml" filepath="$PROJECT_DIR$/javase/javase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lih/mybatisch01/mybatis-ch01.iml" filepath="$PROJECT_DIR$/../lih/mybatisch01/mybatis-ch01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lih/mybatisch02/mybatis-ch02.iml" filepath="$PROJECT_DIR$/../lih/mybatisch02/mybatis-ch02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lih/mybatisch03/mybatis-ch03.iml" filepath="$PROJECT_DIR$/../lih/mybatisch03/mybatis-ch03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lih/mybatisch04/mybatis-ch04.iml" filepath="$PROJECT_DIR$/../lih/mybatisch04/mybatis-ch04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lih/springch01/spring-ch01.iml" filepath="$PROJECT_DIR$/../lih/springch01/spring-ch01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lih/springch02/spring-ch02.iml" filepath="$PROJECT_DIR$/../lih/springch02/spring-ch02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lih/springch03/spring-ch03.iml" filepath="$PROJECT_DIR$/../lih/springch03/spring-ch03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lih/springch04/spring-ch04.iml" filepath="$PROJECT_DIR$/../lih/springch04/spring-ch04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lih/springch05/spring-ch05.iml" filepath="$PROJECT_DIR$/../lih/springch05/spring-ch05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lih/springch06/spring-ch06.iml" filepath="$PROJECT_DIR$/../lih/springch06/spring-ch06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lih/springch07/spring-ch07.iml" filepath="$PROJECT_DIR$/../lih/springch07/spring-ch07.iml" />
       <module fileurl="file://$PROJECT_DIR$/../lih/travel/travel.iml" filepath="$PROJECT_DIR$/../lih/travel/travel.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
       <module fileurl="file://$PROJECT_DIR$/设计模式/设计模式.iml" filepath="$PROJECT_DIR$/设计模式/设计模式.iml" />

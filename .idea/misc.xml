@@ -7,6 +7,17 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/../lih/travel/pom.xml" />
+        <option value="$PROJECT_DIR$/../lih/springch01/pom.xml" />
+        <option value="$PROJECT_DIR$/../lih/mybatisch01/pom.xml" />
+        <option value="$PROJECT_DIR$/../lih/mybatisch02/pom.xml" />
+        <option value="$PROJECT_DIR$/../lih/mybatisch03/pom.xml" />
+        <option value="$PROJECT_DIR$/../lih/mybatisch04/pom.xml" />
+        <option value="$PROJECT_DIR$/../lih/springch02/pom.xml" />
+        <option value="$PROJECT_DIR$/../lih/springch03/pom.xml" />
+        <option value="$PROJECT_DIR$/../lih/springch04/pom.xml" />
+        <option value="$PROJECT_DIR$/../lih/springch05/pom.xml" />
+        <option value="$PROJECT_DIR$/../lih/springch06/pom.xml" />
+        <option value="$PROJECT_DIR$/../lih/springch07/pom.xml" />
       </list>
     </option>
   </component>

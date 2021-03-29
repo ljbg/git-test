@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="travel:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d805738-f81d-4c53-9aae-bfd0c686df66" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/javase_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/travel_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/travel_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/web_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_mail_javax_mail_api_1_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HY.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/javase/javase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase/javase.plantuml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase/src" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/javase/src/META-INF" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/javase/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase/src/snake" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/javase/src/snake/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase/src/snake/GamePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase/src/snake/StartGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase/src/snake/snake.plantuml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase/src/statics" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/javase/src/statics/body.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase/src/statics/down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase/src/statics/food.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase/src/statics/left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase/src/statics/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase/src/statics/up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/javase_jar" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/javase_jar/javase.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/web_war_exploded" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/web_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/production/javase" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/production/javase/META-INF" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/production/javase/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javase/snake" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/production/javase/snake/Data.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javase/snake/GamePanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javase/snake/StartGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javase/statics" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/production/javase/statics/body.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javase/statics/down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javase/statics/food.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javase/statics/left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javase/statics/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javase/statics/up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/web" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/production/web/com" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/production/web/com/lijunbo" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/production/web/com/lijunbo/controller" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/production/web/com/lijunbo/controller/FindMovieByPageController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/web/com/lijunbo/controller/LoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/web/com/lijunbo/controller/RegisterController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/web/com/lijunbo/dao" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/production/web/com/lijunbo/dao/MoviesDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/web/com/lijunbo/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/web/com/lijunbo/domain" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/production/web/com/lijunbo/domain/Movies.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/web/com/lijunbo/domain/Types.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/web/com/lijunbo/domain/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/web/com/lijunbo/service" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/production/web/com/lijunbo/service/MovieService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/web/com/lijunbo/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/web/com/lijunbo/util" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/production/web/com/lijunbo/util/ConnUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/web/com/lijunbo/vo" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/out/production/web/com/lijunbo/vo/PageBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/web/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/web" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/web/src" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/web/src/com" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/web/src/com/lijunbo" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/web/src/com/lijunbo/controller" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/web/src/com/lijunbo/controller/AddMovieController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/com/lijunbo/controller/DeleteMovieController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/com/lijunbo/controller/DeleteSelectedController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/com/lijunbo/controller/FindMovieByPageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/com/lijunbo/controller/LogOutController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/com/lijunbo/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/com/lijunbo/controller/RegisterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/com/lijunbo/controller/ToUpdateMovieController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/com/lijunbo/controller/UpdateMovieController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/com/lijunbo/dao" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/web/src/com/lijunbo/dao/MoviesDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/com/lijunbo/dao/TypeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/com/lijunbo/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/com/lijunbo/domain" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/web/src/com/lijunbo/domain/Movies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/com/lijunbo/domain/Types.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/com/lijunbo/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/com/lijunbo/filter" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/web/src/com/lijunbo/filter/LoginFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/com/lijunbo/listener" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/web/src/com/lijunbo/listener/InitListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/com/lijunbo/service" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/web/src/com/lijunbo/service/MovieService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/com/lijunbo/service/TypeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/com/lijunbo/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/com/lijunbo/util" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/web/src/com/lijunbo/util/ConnUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/com/lijunbo/util/FileUpUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/com/lijunbo/vo" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/web/src/com/lijunbo/vo/PageBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/web/web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web.plantuml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/WEB-INF" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/web/web/WEB-INF/lib" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/web/web/WEB-INF/lib/commons-beanutils-1.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/WEB-INF/lib/commons-collections-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/WEB-INF/lib/commons-dbcp-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/WEB-INF/lib/commons-dbutils-1.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/WEB-INF/lib/commons-pool-1.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/WEB-INF/lib/mysql-connector-java-8.0.19.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/css" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/web/web/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/img" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/web/web/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/img/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/img/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/img/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/img/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/img/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/img/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/img/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/img/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/img/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/img/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/img/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/img/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/img/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/img/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/img/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/img/24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/img/25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/img/26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/img/27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/img/28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/img/29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/img/30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/img/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/img/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/img/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/img/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/img/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/img/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/js" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/web/web/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/js/jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/update.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web/web.plantuml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="jsf" />
+        <option value="Jsp File" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/Maven-work/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="C:\Users\uyuuhu\Maven-work\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1kukPbCPrUJQ5jPhFvsMOZFWevX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files/TortoiseSVN/bin/svn.exe" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.mysql.cj.jdbc" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\uyuuhu\IdeaProjects\HY\javase\src\com\Mrcake\JAPFinalWork" />
+      <recent name="C:\Users\uyuuhu\IdeaProjects\HY\web\src\com\lijunbo\util" />
+      <recent name="C:\Users\uyuuhu\IdeaProjects\HY\web\web" />
+      <recent name="C:\Users\uyuuhu\IdeaProjects\HY\web\src\com\lijunbo\listener" />
+      <recent name="C:\Users\uyuuhu\IdeaProjects\HY\web\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.31">
+    <configuration name="StartGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="snake.StartGame" />
+      <module name="javase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="snake.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Mrcake.JAPFinalWork.UserGUI" />
+      <module name="javase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Mrcake.JAPFinalWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.31" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.31" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/web_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/web_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_31_HY" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56502" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="web:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.StartGame" />
+      <item itemvalue="Application.UserGUI" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.31" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UserGUI" />
+        <item itemvalue="Application.StartGame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\uyuuhu\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\uyuuhu\IdeaProjects\HY" />
+          <option name="myCopyRoot" value="C:\Users\uyuuhu\IdeaProjects\HY" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\uyuuhu\IdeaProjects\HY" />
+          <option name="myCopyRoot" value="C:\Users\uyuuhu\IdeaProjects\HY" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d805738-f81d-4c53-9aae-bfd0c686df66" name="Default Changelist" comment="" />
+      <created>1606557840373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606557840373</updated>
+      <workItem from="1606557841748" duration="848000" />
+      <workItem from="1606560858396" duration="17945000" />
+      <workItem from="1606653543380" duration="11195000" />
+      <workItem from="1606740664318" duration="1597000" />
+      <workItem from="1606882732953" duration="5557000" />
+      <workItem from="1606913884660" duration="28519000" />
+      <workItem from="1607252553408" duration="9502000" />
+      <workItem from="1607348565091" duration="2393000" />
+      <workItem from="1607414298206" duration="12313000" />
+      <workItem from="1607488688486" duration="12797000" />
+      <workItem from="1607513383454" duration="25206000" />
+      <workItem from="1608208632290" duration="5779000" />
+      <workItem from="1609062229083" duration="180000" />
+      <workItem from="1610104160942" duration="1154000" />
+      <workItem from="1610157069756" duration="1182000" />
+      <workItem from="1610419065432" duration="236000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+</project>

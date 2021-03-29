@@ -1,0 +1,8 @@
+<!ELEMENT Orders (Order*)>
+        <!ELEMENT Order  (name,number,city,zip)>
+        <!ELEMENT name (#PCDATA)>
+        <!ELEMENT number (#PCDATA)>
+        <!ELEMENT city (#PCDATA)>
+        <!ELEMENT zip (#PCDATA)>
+        <!ATTLIST Order orderID CDATA #REQUIRED>
+        <!ATTLIST Order orderDate CDATA #REQUIRED>

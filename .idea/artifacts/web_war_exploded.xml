@@ -7,6 +7,9 @@
         <element id="directory" name="classes">
           <element id="module-output" name="web" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="commons-pool-1.6" module-name="web" />
+        </element>
       </element>
     </root>
   </artifact>

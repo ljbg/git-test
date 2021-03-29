@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HY.iml" filepath="$PROJECT_DIR$/HY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSMMovie/SSMMovie.iml" filepath="$PROJECT_DIR$/SSMMovie/SSMMovie.iml" />
       <module fileurl="file://$PROJECT_DIR$/javase/javase.iml" filepath="$PROJECT_DIR$/javase/javase.iml" />
       <module fileurl="file://$PROJECT_DIR$/../lih/mybatisch01/mybatis-ch01.iml" filepath="$PROJECT_DIR$/../lih/mybatisch01/mybatis-ch01.iml" />
       <module fileurl="file://$PROJECT_DIR$/../lih/mybatisch02/mybatis-ch02.iml" filepath="$PROJECT_DIR$/../lih/mybatisch02/mybatis-ch02.iml" />
@@ -15,6 +16,11 @@
       <module fileurl="file://$PROJECT_DIR$/../lih/springch05/spring-ch05.iml" filepath="$PROJECT_DIR$/../lih/springch05/spring-ch05.iml" />
       <module fileurl="file://$PROJECT_DIR$/../lih/springch06/spring-ch06.iml" filepath="$PROJECT_DIR$/../lih/springch06/spring-ch06.iml" />
       <module fileurl="file://$PROJECT_DIR$/../lih/springch07/spring-ch07.iml" filepath="$PROJECT_DIR$/../lih/springch07/spring-ch07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lih/springch08/spring-ch08.iml" filepath="$PROJECT_DIR$/../lih/springch08/spring-ch08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lih/springch09/spring-ch09.iml" filepath="$PROJECT_DIR$/../lih/springch09/spring-ch09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lih/springMVC01/springMVC01.iml" filepath="$PROJECT_DIR$/../lih/springMVC01/springMVC01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springMVC02/springMVC02.iml" filepath="$PROJECT_DIR$/springMVC02/springMVC02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lih/SSMbuild/ssmBuild.iml" filepath="$PROJECT_DIR$/../lih/SSMbuild/ssmBuild.iml" />
       <module fileurl="file://$PROJECT_DIR$/../lih/travel/travel.iml" filepath="$PROJECT_DIR$/../lih/travel/travel.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
       <module fileurl="file://$PROJECT_DIR$/设计模式/设计模式.iml" filepath="$PROJECT_DIR$/设计模式/设计模式.iml" />

@@ -1,0 +1,4 @@
+<!ELEMENT 公司 (公司职员*)>
+        <!ELEMENT 公司职员 (#PCDATA)>
+        <!ATTLIST 公司职员 编号 CDATA #REQUIRED>
+        <!ATTLIST 公司职员 姓名 CDATA #REQUIRED>

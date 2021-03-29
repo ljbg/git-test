@@ -1,0 +1,21 @@
+<?xml  version="1.0" encoding="utf-8"?>
+<xsd:schema  xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <xsd:element  name="学生名册">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element  ref="学生" minOccurs="1" maxOccurs="unbounded"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+
+    <xsd:element  name="学生" >
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element  name="姓名"  type="xsd:string"/>
+                <xsd:element  name="性别"  type="xsd:string"  />
+                <xsd:element  name="年龄"  type="xsd:integer" />
+            </xsd:sequence>
+            <xsd:attribute name="学号" type="xsd:string" use="required"/>
+        </xsd:complexType>
+    </xsd:element>
+</xsd:schema>

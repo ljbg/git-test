@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+	<!DOCTYPE 公司  SYSTEM "PERSON.dtd">
+<公司>
+	<公司职员 编号="Z001" 姓名="张三"/>
+	<公司职员 编号="Z002" 姓名="李四"/>
+</公司>

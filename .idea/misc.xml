@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/springMVC02" />
+    <file type="web" url="file://$PROJECT_DIR$/SSMMovie" />
+    <file type="web" url="file://$PROJECT_DIR$/../lih/springMVC01" />
+    <file type="web" url="file://$PROJECT_DIR$/../lih/SSMbuild" />
     <file type="web" url="file://$PROJECT_DIR$/../lih/travel" />
   </component>
   <component name="MavenProjectsManager">
@@ -18,6 +22,12 @@
         <option value="$PROJECT_DIR$/../lih/springch05/pom.xml" />
         <option value="$PROJECT_DIR$/../lih/springch06/pom.xml" />
         <option value="$PROJECT_DIR$/../lih/springch07/pom.xml" />
+        <option value="$PROJECT_DIR$/../lih/springch08/pom.xml" />
+        <option value="$PROJECT_DIR$/../lih/springch09/pom.xml" />
+        <option value="$PROJECT_DIR$/../lih/springMVC01/pom.xml" />
+        <option value="$PROJECT_DIR$/springMVC02/pom.xml" />
+        <option value="$PROJECT_DIR$/../lih/SSMbuild/pom.xml" />
+        <option value="$PROJECT_DIR$/SSMMovie/pom.xml" />
       </list>
     </option>
   </component>

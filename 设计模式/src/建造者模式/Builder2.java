@@ -14,6 +14,7 @@ public class Builder2 implements Builder{
 
     @Override
     public Product getResult() {
+
         return product;
     }
 }

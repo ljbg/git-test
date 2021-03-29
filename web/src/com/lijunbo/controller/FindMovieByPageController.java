@@ -28,7 +28,29 @@ public class FindMovieByPageController extends HttpServlet {
         Map<String, String[]> condition = request.getParameterMap();   //多条件查询得参数
         MovieService movieService = new MovieService();
         PageBean<Movies>   pb = movieService.findMovieByPage(currentPage, rows, condition);
-        System.out.println(pb);
+        //System.out.println(pb);
+
+        //定义开始位置   begin  ,结束位置   end  每次展示 4 页码
+        Integer begin;
+        Integer end;
+
+        if(pb.getTotalPage()<4){           //总页码小于4
+            begin=1;
+            end=pb.getTotalPage();
+        }else{                             //总页码大于4
+            begin = pb.getCurrentPage() -   2 ;
+            end = pb.getCurrentPage()   +   1 ;
+            if(begin<1){
+                begin = 1;
+                end = begin + 3;
+            }
+            if(end>pb.getTotalPage()){
+                end = pb.getTotalPage();
+                begin = end  -  3 ;
+            }
+        }
+        request.setAttribute("begin",begin);
+        request.setAttribute("end",end);
         request.setAttribute("pb",pb);
         request.setAttribute("condition",condition);
         request.getRequestDispatcher("/list.jsp").forward(request,response);

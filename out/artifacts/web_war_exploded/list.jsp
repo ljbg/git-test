@@ -166,7 +166,10 @@
                     </li>
                 </c:if>
 
-                <c:forEach begin="1" end="${pb.totalPage}" var="i">
+
+
+
+                <c:forEach begin="${begin}" end="${end}" var="i">
 
                <c:if test="${pb.currentPage == i}">
                    <li class="active"><a href="${pageContext.request.contextPath}/findMovieByPage?currentPage=${i}&rows=5&movies_name=${condition.movies_name[0]}&movies_date=${condition.movies_date[0]}&movies_type_id=${condition.movies_type_id[0]}">${i}</a></li>

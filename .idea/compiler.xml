@@ -9,17 +9,16 @@
         <module name="spring-ch03" />
         <module name="spring-ch02" />
         <module name="spring-ch01" />
-        <module name="spring-ch04" />
+        <module name="spring-ch09" />
         <module name="travel" />
         <module name="springMVC02" />
         <module name="springMVC01" />
-        <module name="SSMMovie" />
-        <module name="mybatis-ch02" />
-        <module name="mybatis-ch01" />
+        <module name="spring-ch04" />
+        <module name="spring-ch08" />
         <module name="mybatis-ch04" />
         <module name="mybatis-ch03" />
-        <module name="spring-ch09" />
-        <module name="spring-ch08" />
+        <module name="mybatis-ch02" />
+        <module name="mybatis-ch01" />
         <module name="spring-ch07" />
         <module name="spring-ch06" />
         <module name="spring-ch05" />
@@ -43,7 +42,7 @@
       <module name="springMVC01" target="1.8" />
       <module name="springMVC02" target="1.8" />
       <module name="ssmBuild" target="1.5" />
-      <module name="SSMMovie" target="1.5" />
+      <module name="SSMMovie" target="1.8" />
       <module name="travel" target="1.8" />
     </bytecodeTargetLevel>
   </component>

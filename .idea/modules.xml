@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HY.iml" filepath="$PROJECT_DIR$/HY.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SSMMovie/SSMMovie.iml" filepath="$PROJECT_DIR$/SSMMovie/SSMMovie.iml" />
       <module fileurl="file://$PROJECT_DIR$/javase/javase.iml" filepath="$PROJECT_DIR$/javase/javase.iml" />
       <module fileurl="file://$PROJECT_DIR$/../lih/mybatisch01/mybatis-ch01.iml" filepath="$PROJECT_DIR$/../lih/mybatisch01/mybatis-ch01.iml" />
       <module fileurl="file://$PROJECT_DIR$/../lih/mybatisch02/mybatis-ch02.iml" filepath="$PROJECT_DIR$/../lih/mybatisch02/mybatis-ch02.iml" />
